@@ -3,7 +3,7 @@ import Home from "./Home";
 import AboutUs from"./AboutUs";
 import Todos from "./Todos";
 import Notfound from "./Notfound";
-import "./App.css";
+
 function App() {
   return (
     <div>
