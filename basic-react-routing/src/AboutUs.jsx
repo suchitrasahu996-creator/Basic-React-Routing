@@ -8,6 +8,7 @@ function AboutUs() {
           <li>
             <Link to="/">Home</Link>
             <Link to="/aboutus">About Us</Link>
+            <Link to="/todos">Todos</Link>
           </li>
         </ul>
       </nav>

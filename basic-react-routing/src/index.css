@@ -14,19 +14,6 @@ ul li a{
   text-decoration: none;
   margin-inline: 25px;
 }
-card{
-  border: 2px solid black;
-  padding: 15px;
-  border-radius: 10px;
-  background: rgb(120, 233, 233);
-}
-container{
-  display: grid;
-  grid-template-columns: repeat(auto-fit,minmax(230px,1fr));
-  gap: 15px;
-  padding: 20px;
-
-}
 h2{
   text-align: center;
   margin-top: 25px;
